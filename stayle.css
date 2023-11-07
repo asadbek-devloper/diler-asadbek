@@ -701,7 +701,7 @@ button:focus {
 @media (max-width: 600px) {
   .header-image {
     width: 70%;
-    height: 400px;
+    height: 200px;
   }
 
   .header-image img {
